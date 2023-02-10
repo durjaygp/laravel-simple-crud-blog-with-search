@@ -37,3 +37,9 @@ You can now access the server at http://localhost:8000
 
 ## Home Page
 ![Screenshot](Blog-Magazine.png)
+
+## Category Page
+![Screenshot](Yoshio-Webb.png)
+
+## Add Blog Page
+![Screenshot](Add-Blog.png)
